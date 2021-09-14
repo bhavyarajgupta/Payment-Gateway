@@ -1,2 +1,2 @@
-# Payment-Gateway
-gateway of payment
+it is for sparks internship 
+check it once.
